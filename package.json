@@ -1,8 +1,8 @@
 {
-  "name": "rental-car",
+  "name": "car-m-rental",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://misetr.github.io/rental-car/",
+  "homepage": "https://misetr.github.io/car-m-rental/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.7",
