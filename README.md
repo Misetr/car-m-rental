@@ -1,4 +1,4 @@
-Test task "Rent a Car App v1.0". Application for choosing and renting a car in
+Test task " car m rental App v1.0". Application for choosing and renting a car in
 Developed using the following libraries:
 
 - react,
